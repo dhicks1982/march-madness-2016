@@ -13,7 +13,7 @@ def getTeams():
         teams.Team('Hawaii',13),
         teams.Team('Arizona',6),
         teams.Team('Wichita St',11),
-        teams.Team('Miami',3,'Miami FL'),
+        teams.Team('Miami FL',3),
         teams.Team('Buffalo',14),
         teams.Team('Iowa',7),
         teams.Team('Temple',10),
